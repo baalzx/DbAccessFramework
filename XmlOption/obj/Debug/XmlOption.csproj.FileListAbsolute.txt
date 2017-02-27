@@ -1,0 +1,4 @@
+D:\个人学习用的资料\DbAccessFramework\XmlOption\bin\Debug\XmlOption.dll
+D:\个人学习用的资料\DbAccessFramework\XmlOption\bin\Debug\XmlOption.pdb
+D:\个人学习用的资料\DbAccessFramework\XmlOption\obj\Debug\XmlOption.dll
+D:\个人学习用的资料\DbAccessFramework\XmlOption\obj\Debug\XmlOption.pdb

@@ -1,0 +1,5 @@
+D:\个人学习用的资料\DbAccessFramework\DbAccessFramework\bin\Debug\DbAccessFramework.dll
+D:\个人学习用的资料\DbAccessFramework\DbAccessFramework\bin\Debug\DbAccessFramework.pdb
+D:\个人学习用的资料\DbAccessFramework\DbAccessFramework\obj\Debug\DbAccessFramework.dll
+D:\个人学习用的资料\DbAccessFramework\DbAccessFramework\obj\Debug\DbAccessFramework.pdb
+D:\个人学习用的资料\DbAccessFramework\DbAccessFramework\obj\Debug\DbAccessFramework.csprojResolveAssemblyReference.cache
